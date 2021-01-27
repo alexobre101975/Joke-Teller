@@ -1,0 +1,13 @@
+breve explicacion del proyecto Joke Teller
+
+vamos a llamar a una API de broma y obtener una broma al azar,luego pasaremos eso a una 
+API de texto a voz y nos contará ese chiste tenemos un simpático robot gif animado.
+botón de broma y todo lo que tenemos que hacer es presionarlo.
+Entonces eso es lo básico de la funcionalidad, solo tenemos un botón simple y nos contará un chiste.
+
+LA API de Voz NO funciono ....
+
+me aparece este error
+
+Uncaught ERROR: The API key is not available! 				script.js:3 
+
